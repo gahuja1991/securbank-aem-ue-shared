@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p21002-e1571066.adobeaemcloud.com/bin/franklin.delivery/gahuja1991/aemforms-boilerplate/main"
+    url: "https://author-p21002-e1571066.adobeaemcloud.com/bin/franklin.delivery/gahuja1991/securbank-aem-ue-shared/main"
     type: "markup"
     suffix: ".html"
